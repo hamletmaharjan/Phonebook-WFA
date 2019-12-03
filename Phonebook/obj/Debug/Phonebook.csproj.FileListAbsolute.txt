@@ -1,0 +1,15 @@
+c:\users\hams\documents\visual studio 2013\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\hams\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\hams\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\hams\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\hams\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\Users\hams\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.Cache
+C:\Users\hams\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\hams\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\hams\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\hams\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.Main.resources
+C:\Users\hams\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.AddContact.resources
+C:\Users\hams\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.SearchContact.resources
+C:\Users\hams\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.EditContact.resources
+C:\Users\hams\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.ListContact.resources
+C:\Users\hams\Documents\Visual Studio 2013\Projects\Phonebook\Phonebook\obj\Debug\Phonebook.DeleteContact.resources
